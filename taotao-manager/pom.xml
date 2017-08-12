@@ -19,7 +19,6 @@
 		</dependency>
 	</dependencies>
 	<modules>
-		<module>taotao-manager-pojo1</module>
 		<module>taotao-manager-mapper1</module>
 		<module>taotao-manager-service1</module>
 		<module>taotao-manager-web1</module>
